@@ -1,0 +1,5 @@
+
+/*	if r.Method != "GET" {
+		http.Error(w, "Method is not supported.", http.StatusNotFound)
+		return
+	}*/
